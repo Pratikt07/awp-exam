@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+.box1 {
+}
+.nv1 {
+  height: 65px;
+  width: 100%;
+}
+.bx1 {
+  border-color: black;
+  height: 20vh;
+  border-style: solid;
+  width: 30vw;
+}

@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+.container1 {
+  background-color: darkcyan;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.log-in-box {
+  background-color: aquamarine;
+  height: 80vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+}
+.frm-txt {
+  margin-top: 2vh;
+}
+.btn1 {
+  margin-top: 2vh;
+}
+.input1 {
+}
+.input input {
+  border-radius: 25px;
+}
